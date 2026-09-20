@@ -65,4 +65,4 @@ Hermes (agent Telegram) peut interagir avec ce manager :
 
 ---
 
-*Projet personnel — Hamid Bennacef*
+*Projet open source*

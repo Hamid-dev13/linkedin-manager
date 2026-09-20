@@ -20,7 +20,7 @@ Un manager de posts LinkedIn personnel. Interface web avec :
 
 ## Philosophie
 
-- Personnel d'abord — c'est pour Hamid, pas un SaaS multi-user
+- Open source — conçu pour être réutilisable par n'importe qui
 - API LinkedIn officielle — pas de scraping, pas de browser automation
 - Simple — une seule page, tout visible d'un coup
 - L'agent Hermes reste le point d'entrée Telegram — la web app c'est la visualisation
